@@ -121,7 +121,7 @@ Anten, **corporate feed besleme ağı** kullanılarak RF sinyalini dizi elemanla
 
 ## Dokümantasyon
 Detaylı rapora buradan ulaşabilirsiniz:
-`docs/4x1 array antenna rapor.pdf`
+`docs/4x1_array_antenna_rapor.pdf`
 
 ## Çıkarımlar
 - Simülasyon ve ölçüm sonuçlarının karşılaştırılması sonucunda, antenin hedeflenen 3.7 GHz merkez frekansta çalıştığı ve herhangi bir frekans kayması gözlenmediği doğrulanmıştır. Bu durum, tasarım sürecinde yapılan hesaplamaların ve optimizasyonların doğruluğunu ortaya koymaktadır.
